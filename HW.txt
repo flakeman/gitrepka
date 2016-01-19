@@ -1,1 +1,2 @@
 print ("H W")
+print ("H All")
