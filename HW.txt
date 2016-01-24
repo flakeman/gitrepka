@@ -1,3 +1,0 @@
-print ("H W")
-print ("H All")
-print ("MF")
